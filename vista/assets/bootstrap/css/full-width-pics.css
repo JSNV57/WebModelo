@@ -1,0 +1,58 @@
+/*
+ * Start Bootstrap - Full Width Pics (http://startbootstrap.com/)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  /*background-image: url('../images/girl.jpg');*/
+}
+
+.py-5 {
+  padding-top: 3rem!important;
+  padding-bottom: 3rem!important;
+}
+
+.mx-auto {
+  margin-right: auto!important;
+  margin-left: 3rem!important;
+}
+
+.d-block {
+  display: block!important;
+}
+
+.img-fluid {
+  max-width: 75%;
+  height: auto;
+}
+
+.thumb {
+    margin-bottom: 30px;
+}
+
+.thumbnail {
+    margin-bottom: 0px;
+}
+
+img {
+  vertical-align: middle;
+}
+
+img {
+  border-style: none;
+}
+
+.navbar	{
+	margin-bottom: 0px;
+}
+
+.jumbotron {
+	min-height: 500px;
+}
